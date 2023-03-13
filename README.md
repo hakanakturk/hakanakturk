@@ -9,7 +9,7 @@ Self-taught developer, eager to learn and improve and I love to work with Swift 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [hakanakturk@outlook.com](mailto:hakanakturk@outlook.com)
 * 🚀  I'm currently working on [Simple Converter](http://apps.apple.com/tr/app/basit-%C3%A7evirici/id6445921216?l=tr)
-* 🧠  I'm learning Unit & UI Testing on iOS
+* 🧠  I'm currently learning Unit & UI Testing on iOS
 * 🤝  I'm open to collaborating on Creative iOS Projects with SwiftUI
 
 ### Skills
