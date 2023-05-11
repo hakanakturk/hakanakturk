@@ -11,14 +11,6 @@ Self-taught developer, eager to learn and improve and I love to work with Swift 
 * 🚀  I'm currently working on [Simple Converter](http://apps.apple.com/tr/app/basit-%C3%A7evirici/id6445921216?l=tr)
 * 🤝  I'm open to collaborating on Creative iOS Projects with SwiftUI
 
-### Skills
-
-
-<p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
-
 
 ### Socials
 
