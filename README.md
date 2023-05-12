@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hakan Aktürk
 ====================================================================================================================================
 
-iOS Developer - Designer
+iOS Developer
 ------------------------
 
 Self-taught developer, eager to learn and improve and I love to work with Swift and SwiftUI.
