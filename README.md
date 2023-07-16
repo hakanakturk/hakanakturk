@@ -8,7 +8,7 @@ Self-taught developer.
 
 * 🌍 I'm based in Istanbul
 * 🤝 You can contact me at [hakanakturk@outlook.com](mailto:hakanakturk@outlook.com)
-* 🚀 You can check my published app at AppStore [Simple Converter](http://apps.apple.com/tr/app/basit-%C3%A7evirici/id6445921216?l=tr)
+* 🚀 You can check my published app at App Store [Simple Converter](http://apps.apple.com/tr/app/basit-%C3%A7evirici/id6445921216?l=tr)
 
 
 ### Socials
