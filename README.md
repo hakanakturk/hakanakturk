@@ -4,16 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 iOS Developer
 ------------------------
 
-Self-taught developer, eager to learn and improve and I love to work with Swift and SwiftUI.
+Self-taught developer.
 
-* 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [hakanakturk@outlook.com](mailto:hakanakturk@outlook.com)
-* 🤝  I'm open to collaborating on Creative iOS Projects with SwiftUI
+* 🌍 I'm based in Istanbul
+* 🤝 You can contact me at [hakanakturk@outlook.com](mailto:hakanakturk@outlook.com)
+* 🚀 You can check my published app at AppStore [Simple Converter](http://apps.apple.com/tr/app/basit-%C3%A7evirici/id6445921216?l=tr)
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/hakanakturk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hakan-aktürk-213603190/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HakantheAkturk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/hakan-aktürk-213603190/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
